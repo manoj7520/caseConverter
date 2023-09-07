@@ -1,0 +1,81 @@
+#main{
+    display: flex;
+    margin: 0;
+}
+#div1{
+width: 45%;
+background-color: rgb(211, 225, 237);
+
+}
+#div2{
+    width: 10%;
+background-color: rgba(208, 255, 0, 0.881);
+}
+#div3{
+    width: 45%;
+background-color: rgb(211, 225, 237);
+}
+#div4{
+    display: inline-flex;
+}
+#input{
+    width: 9cm;
+    height: 9cm;
+    border: none;
+    word-wrap: break-word;
+}
+#output{
+    width: 9cm;
+    height: 9cm;
+    border: none;
+    word-wrap: break-word;
+}
+#snakeCase{
+    width: 130px;
+    height: 50px;
+    margin-top: 20px;
+   margin-bottom: 30px;
+    border: none;
+    border-color:  rgb(208, 255, 0);
+    border-radius: 10px;
+    font-size:20px;
+    font-weight: bold;
+    font-family: unset;
+    font-style: inherit;
+}
+#CamelCase{
+   margin-bottom: 30px;
+    width: 130px;
+    height: 50px;
+    border: none;
+    border-color:  rgb(208, 255, 0);
+    border-radius: 10px;
+    font-size:20px;
+    font-weight: bold;
+    font-family: unset;
+    font-style: inherit;
+}
+#PascalCase{
+   margin-bottom: 30px;
+    width: 130px;
+    height: 50px;
+    border: none;
+    border-color:  rgb(208, 255, 0);
+    border-radius: 10px;
+    font-size:20px;
+    font-weight: bold;
+    font-family: unset;
+    font-style: inherit;
+}
+#KebabCase{
+   margin-bottom: 30px;
+    width: 130px;
+    height: 50px;
+    border: none;
+    border-color:  rgb(208, 255, 0);
+    border-radius: 10px;
+    font-size:20px;
+    font-weight: bold;
+    font-family: unset;
+    font-style: inherit;
+}
